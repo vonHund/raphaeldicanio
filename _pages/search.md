@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Search
-published: false
 
 ---
 <style>
