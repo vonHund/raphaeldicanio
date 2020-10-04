@@ -1,0 +1,15 @@
+---
+header:
+  - url: /
+    title: Writing
+    identifier: writing
+  - title: About
+    url: /about
+    identifier: about
+  - title: Search
+    url: /search
+    identifier: search
+  - title: RSS
+    url: /atom.xml
+    identifier: rss
+---
