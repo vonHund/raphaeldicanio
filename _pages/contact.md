@@ -4,46 +4,26 @@ title: Contact
 published: false
 
 ---
-<style>
-	#search-container {
-	    max-width: 100%;
-	}
+Sidey is a simple and minimalistic jekyll blogging theme.
 
-	input[type=text] {
-		font-size: normal;
-	    outline: none;
-	    padding: 1rem;
-		background: rgb(236, 237, 238);
-	    width: 100%;
-		-webkit-appearance: none;
-		font-family: inherit;
-		font-size: 100%;
-		border: none;
-	}
-	#results-container {
-		margin: .5rem 0;
-	}
-</style>
+### Features
 
-<!-- Html Elements for Search -->
-<div id="search-container">
-<input type="text" id="search-input" placeholder="Search...">
-<ol id="results-container"></ol>
-</div>
+- Responsive design
+- Inline CSS
+- Anchor headings
+- Search
+- Tags & tag pages
+- Security headers (for Netlify hosting)
+- 404 page
+- Compressed CSS and HTML
+- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
+- Robots.txt
+- Atom & Json feeds
+- Sass
+- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
+- Ultra fast (Only ~5kb of CSS)
+- Sidebar navigation
 
-<!-- Script pointing to search-script.js -->
-<script src="/search.js" type="text/javascript"></script>
+### Screenshot
 
-<!-- Configuration -->
-<script type="text/javascript">
-SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  json: '/search.json',
-  searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-  noResultsText: 'No results found',
-  limit: 10,
-  fuzzy: false,
-  exclude: ['Welcome']
-})
-</script>
+![Screenshot](screenshot.png)
