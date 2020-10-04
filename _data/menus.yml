@@ -9,7 +9,7 @@ header:
 - url: "/tag/audio"
   weight: 3
   title: Audio
-- url: "/"
+- url: "/tag/writing"
   title: Writing
   identifier: writing
   weight: 2
