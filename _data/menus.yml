@@ -1,15 +1,21 @@
 ---
 header:
-  - url: /
-    title: Writing
-    identifier: writing
-  - title: About
-    url: /about
-    identifier: about
-  - title: Search
-    url: /search
-    identifier: search
-  - title: RSS
-    url: /atom.xml
-    identifier: rss
----
+- url: "/tag/performance"
+  weight: 5
+  title: Performance
+- title: RSS
+  url: "/atom.xml"
+  identifier: rss
+  weight: 1
+- title: Search
+  url: "/search"
+  identifier: search
+  weight: 2
+- title: About
+  url: "/about"
+  identifier: about
+  weight: 3
+- url: "/"
+  title: Writing
+  identifier: writing
+  weight: 4
