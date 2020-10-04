@@ -20,11 +20,11 @@ header:
 - title: Search
   url: "/search"
   identifier: search
-  weight: 7
+  weight: 8
 - title: RSS
   url: "/atom.xml"
   identifier: rss
-  weight: 8
+  weight: 9
 - url: "/tag/performance"
   weight: 1
   title: Performance
