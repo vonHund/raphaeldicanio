@@ -1,21 +1,30 @@
 ---
 header:
-- url: "/tag/performance"
+- url: "/tag/workshops"
   weight: 5
-  title: Performance
-- title: RSS
-  url: "/atom.xml"
-  identifier: rss
-  weight: 1
-- title: Search
-  url: "/search"
-  identifier: search
+  title: Workshops
+- url: tag/video-foto
+  weight: 4
+  title: Video/Foto
+- url: "/tag/audio"
+  weight: 3
+  title: Audio
+- url: "/tag/writing"
+  title: Writing
+  identifier: writing
   weight: 2
 - title: About
   url: "/about"
   identifier: about
-  weight: 3
-- url: "/"
-  title: Writing
-  identifier: writing
-  weight: 4
+  weight: 6
+- title: Search
+  url: "/search"
+  identifier: search
+  weight: 8
+- title: RSS
+  url: "/atom.xml"
+  identifier: rss
+  weight: 9
+- url: "/tag/performance"
+  weight: 1
+  title: Performance
