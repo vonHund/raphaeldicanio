@@ -37,3 +37,12 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
