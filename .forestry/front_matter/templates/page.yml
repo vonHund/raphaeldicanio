@@ -9,4 +9,4 @@ fields:
   name: title
   label: title
 pages:
-- _pages/home.md
+- _pages/index.md
