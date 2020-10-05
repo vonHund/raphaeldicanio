@@ -3,26 +3,4 @@ layout: page
 title: About
 
 ---
-Sidey is a simple and minimalistic jekyll blogging theme.
-
-### Features
-
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
-
-### Screenshot
-
-![Screenshot](screenshot.png)
+Raphael Di Canio (*1990 in Köln, DE) arbeitet als Kunst- und Deutschlehrer am Genoveva-Gymnasium in Köln und an verschiedenen Projekten des Goethe Instituts Südasien. Zudem ist er Mitglied des Kölner Kunstkollektivs Eintagsfliege und des Performance-Duos einfachzwei. In seinen Arbeiten beschäftigt er sich überwiegend mit Performance, Sound, Film und Text.
