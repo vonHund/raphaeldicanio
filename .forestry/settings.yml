@@ -11,7 +11,9 @@ sections:
   match: "**/*"
 - type: jekyll-posts
   label: All Posts
-  create: all
+  create: documents
+  templates:
+  - post
 - type: directory
   path: _posts/Performance
   label: Performance
