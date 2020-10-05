@@ -1,5 +1,8 @@
 ---
 header:
+- weight: 8
+  url: "/contact"
+  title: Contact
 - url: "//performancegarten.de"
   weight: 4
   title: Kuration
