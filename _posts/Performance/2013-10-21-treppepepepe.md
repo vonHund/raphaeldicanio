@@ -9,7 +9,7 @@ tags:
 - Performance
 
 ---
-Unsere Performance “Treppepepepe” versuchten wir anders anzugehen, als die Bisherigen! Deses Mal stand nicht die intentionale Performativität, sondern viel mehr der visuelle Anspruch im Vordergrund. Wir dachten ausgehend von den Bildern. Ist es nicht irrelevant, welche Hintergedanken uns beeiflusst haben? Ist es nicht unweigerlich determiniert und gut, dass der Zuschauer beginnt seine eigenen Gedanken mit der Performance zu verknüpfen? Und ist es nicht gerade spannend mit der Darstellbarkeit der Sinnlosigkeit zu spielen?Dies waren Fragen die uns beschäftigten und uns zu dieser Performance inspirierten. Ablauf der Performance:
+\-Unsere Performance “Treppepepepe” versuchten wir anders anzugehen, als die Bisherigen! Deses Mal stand nicht die intentionale Performativität, sondern viel mehr der visuelle Anspruch im Vordergrund. Wir dachten ausgehend von den Bildern. Ist es nicht irrelevant, welche Hintergedanken uns beeiflusst haben? Ist es nicht unweigerlich determiniert und gut, dass der Zuschauer beginnt seine eigenen Gedanken mit der Performance zu verknüpfen? Und ist es nicht gerade spannend mit der Darstellbarkeit der Sinnlosigkeit zu spielen?Dies waren Fragen die uns beschäftigten und uns zu dieser Performance inspirierten. Ablauf der Performance:
 
 I) Wir steigen die Treppe herab, gehen auf die Zuschauer zu und beginnen mit zwei Putzlappen synchron den Boden zu wischen.
 
@@ -25,4 +25,4 @@ VI) Im Untergeschoss angekommen nimmt jeder Reis in den Beutel seines Hemdes auf
 
 VII) Wir treffen uns an einer Tür und betreten einen langen dunklen Flur am Ende des Flures bleibt Dennis stehen und dreht sich zu mir um. Wir stehen uns gegenüber – schauen uns an. Unüberhörbar nun Mozarts Lacrimosa, das von den Wänden wiederhallt.
 
-VIII) Wir schalten abwechselnd das Licht an und wieder aus. An -Aus -An- Aus. Am Ende beschreiten wir gemeinsam die letzte Tür, schließen diese – die Musik endet mit einem lauten Schrei. 
+VIII) Wir schalten abwechselnd das Licht an und wieder aus. An -Aus -An- Aus. Am Ende beschreiten wir gemeinsam die letzte Tür, schließen diese – die Musik endet mit einem lauten Schrei.
