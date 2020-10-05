@@ -1,6 +1,6 @@
-site: Sidey
+site: Raphael Di Canio
 url: #yoururl
-title: Sidey
+title: Raphael Di Canio
 description: Simple and minimalistic jekyll blogging theme.
 twitter:
   username: #yourusername
@@ -12,7 +12,7 @@ author:
   avatar:
   email: #youremail
   url: #yoururl
-permalink: /:slugified_categories/:year/:month/:day/:slug
+permalink: pretty
 
 baseurl: ""
 
@@ -43,7 +43,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /:year/:month/:day/:slug
+    permalink: /:slugified_categories/:year/:month/:day/:slug
 
 jekyll-archives:
   enabled: 
