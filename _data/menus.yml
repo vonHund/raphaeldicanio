@@ -1,22 +1,22 @@
 ---
 header:
-- url: "/performance"
-  weight: 1
-  title: Performance
-- url: "/writing"
-  title: Writing
-  identifier: writing
-  weight: 2
-- url: "/audio"
-  weight: 3
-  title: Audio
-- url: "/video-foto"
-  weight: 4
-  title: Video/Foto
-- url: "/workshops"
-  weight: 5
-  title: Workshops
 - title: About
   url: "/about"
   identifier: about
-  weight: 6
+  weight: 7
+- url: "/workshops"
+  weight: 4
+  title: Workshops
+- url: "/video-foto"
+  weight: 2
+  title: Video/Foto
+- url: "/audio"
+  weight: 1
+  title: Audio
+- url: "/writing"
+  title: Writing
+  identifier: writing
+  weight: 5
+- url: "/performance"
+  weight: 3
+  title: Performance
