@@ -13,6 +13,27 @@
 "items": [
     
         {
+            "id": "http://localhost:4000/writing/2020/10/05/test",
+            "title": "Test 2",
+            "summary": "",
+            "content_text": "Hi 2!",
+            "content_html": "<p>Hi 2!</p>",
+            "url": "http://localhost:4000/writing/2020/10/05/test",
+            
+            
+            
+            
+            
+            "date_published": "2020-10-05T00:00:00+02:00",
+            "date_modified": "2020-10-05T00:00:00+02:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
             "id": "http://localhost:4000/performance/2020/10/05/test",
             "title": "Test",
             "summary": "",
