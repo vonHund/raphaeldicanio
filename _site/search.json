@@ -2,9 +2,20 @@
   
     {
 
+      "title"    : "Test-Performance",
+      "url"      : "/2020/10/04/test-performance",
+      "category" : "audio",
+      "tags"     : "",
+      "date"     : "2020-10-04 00:00:00 +0200",
+      "description" : "ABC Description"
+
+    } ,
+  
+    {
+
       "title"    : "Difference between font formats",
       "url"      : "/2019/08/31/difference-between-font-formats",
-      "category" : "",
+      "category" : "performance",
       "tags"     : "typography",
       "date"     : "2019-08-31 00:00:00 +0200",
       "description" : "What is the difference between various font formats?"
@@ -82,7 +93,7 @@
       "title"    : "Top plugins for Wordpress websites",
       "url"      : "/2018/08/18/top-plugins-for-wordpress-websites",
       "category" : "",
-      "tags"     : "coding, wordpress",
+      "tags"     : "coding, wordpress, performance",
       "date"     : "2018-08-18 00:00:00 +0200",
       "description" : "Wordpress plugins that I deem as a necessity for everyone"
 
@@ -180,6 +191,17 @@
 
       "title"    : "Creating navigation menu in Jekyll",
       "url"      : "/2017/01/03/creating-navigation-menu-in-jekyll",
+      "category" : "audio",
+      "tags"     : "coding, jekyll",
+      "date"     : "2017-01-03 00:00:00 +0100",
+      "description" : "Using data folder to build Jekyll navigation"
+
+    } ,
+  
+    {
+
+      "title"    : "Creating navigation menu in Jekyll",
+      "url"      : "/2017/01/03/creating-navigation-menu-in-jekyll",
       "category" : "",
       "tags"     : "coding, jekyll",
       "date"     : "2017-01-03 00:00:00 +0100",
@@ -224,7 +246,7 @@
 
       "title"    : "CSS hacks you may not know",
       "url"      : "/2014/05/12/css-hacks-you-may-not-know",
-      "category" : "",
+      "category" : "writing",
       "tags"     : "css",
       "date"     : "2014-05-12 00:00:00 +0200",
       "description" : "This is a collection of short CSS snippets I thought might be useful for beginners"

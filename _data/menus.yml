@@ -1,15 +1,15 @@
 ---
 header:
-- url: "/tag/workshops"
+- url: "/workshops"
   weight: 5
   title: Workshops
-- url: tag/video-foto
+- url: "/video-foto"
   weight: 4
   title: Video/Foto
-- url: "/tag/audio"
+- url: "/audio"
   weight: 3
   title: Audio
-- url: "/tag/writing"
+- url: "/writing"
   title: Writing
   identifier: writing
   weight: 2
@@ -25,6 +25,6 @@ header:
   url: "/atom.xml"
   identifier: rss
   weight: 9
-- url: "/tag/performance"
+- url: "/performance"
   weight: 1
   title: Performance

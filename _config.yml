@@ -35,6 +35,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap  
   - jekyll-menus
+  - jekyll-archives
 
 collections:
   pages:
@@ -43,6 +44,18 @@ collections:
   posts:
     output: true
     permalink: /:year/:month/:day/:slug
+
+jekyll-archives:
+  enabled: 
+    - categories
+  layout: archive
+  slug_mode: latin
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/:name/'
   
 defaults:
   -

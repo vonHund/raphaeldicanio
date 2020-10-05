@@ -1,16 +1,17 @@
 <header role="banner">
-      <!--<h1 class="logo">{{ site.title }}</h1>-->
+      <h1 class="logo">{{ site.title }}</h1>
       <nav role="navigation">
 <ul>
 
 {% for item in site.menus.header %}
   <li class="menu-item-{{ loop.index }}">
-    <a href="{{ item.url }}" {% if item.url.endsWith(page.url) %} class="active"{% endif %} title="{{ item.title }}">{{ item.title }}</a>
+  	{% assign temp = item.url | append: '/' %}
+    <a href="{{ item.url }}" {% if page.url == item.url or page.url == temp %} class="active"{% endif %} title="{{ item.title }}">{{ item.title }}</a>
     {% if item.children %}
       <ul class="sub-menu">
       {% for item in item.children %}
         <li class="menu-item-{{ loop.index }}">
-          <a href="{{ item.url }}" {% if item.url.endsWith(page.url) %} class="active"{% endif %} title="{{ item.title }}">{{ item.title }}</a>
+          <a href="{{ item.url }}" {% if item.url == page.url %} class="active"{% endif %} title="{{ item.title }}">{{ item.title }}</a>
         </li>
       {% endfor %}
       </ul>
