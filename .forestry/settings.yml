@@ -14,41 +14,6 @@ sections:
   create: documents
   templates:
   - post
-- type: directory
-  path: _posts/Performance
-  label: Performance
-  create: all
-  match: "**/*"
-  templates:
-  - post
-- type: directory
-  path: _posts/Writing
-  label: Writing
-  create: all
-  match: "**/*"
-  templates:
-  - post
-- type: directory
-  path: _posts/Audio
-  label: Audio
-  create: all
-  match: "**/*"
-  templates:
-  - post
-- type: directory
-  path: _posts/Video/Foto
-  label: Video/Foto
-  create: all
-  match: "**/*"
-  templates:
-  - post
-- type: directory
-  path: _posts/Workshops
-  label: Workshops
-  create: all
-  match: "**/*"
-  templates:
-  - post
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
