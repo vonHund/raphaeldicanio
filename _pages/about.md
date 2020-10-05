@@ -1,8 +1,12 @@
 ---
 layout: page
 title: About
----
+menu:
+  header:
+    weight: 6
+    title: Audio
 
+---
 Sidey is a simple and minimalistic jekyll blogging theme.
 
 ### Features

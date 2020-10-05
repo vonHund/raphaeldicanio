@@ -13,9 +13,6 @@ header:
 - url: "/video-foto"
   weight: 2
   title: Video/Foto
-- url: "/audio"
-  weight: 6
-  title: Audio
 - url: "/writing"
   title: Writing
   identifier: writing
