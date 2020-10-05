@@ -38,7 +38,7 @@ fields:
   name: tags
   label: tags
 pages:
+- _posts/Performance/2020-10-05-stardust.md
 - _posts/Performance/2020-10-05-unscheinbar.md
 - _posts/Performance/schnitt-i-stelle.md
-- _posts/Performance/stardust.md
 - _posts/Performance/zwischen-2.md
