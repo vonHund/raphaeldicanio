@@ -12,7 +12,7 @@ author:
   avatar:
   email: #youremail
   url: #yoururl
-permalink: pretty
+permalink: /:slugified_categories/:year/:month/:day/:slug
 
 baseurl: ""
 
