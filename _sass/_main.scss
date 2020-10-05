@@ -15,6 +15,11 @@ body {
 	color: rgb(22, 23, 26);
 }
 
+div#main {
+	display:inline-block;
+	margin-top:2em;
+}
+
 nav ul {
     border-right: 1px solid #edf2f7;
 }
@@ -173,6 +178,7 @@ header li {
 }
 .logo {
 	padding-bottom: 1rem;
+	width:100%;
 }
 header ul {
 	border-bottom: 1px solid #edf2f7;
@@ -186,6 +192,10 @@ nav ul {
 	margin-top: 0.5rem;
 }
 
+}
+
+section:first-of-type {
+	/***margin-top:6em;***/
 }
 
 section {
