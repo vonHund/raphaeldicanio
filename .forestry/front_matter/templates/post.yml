@@ -8,6 +8,23 @@ fields:
 - type: text
   name: title
   label: title
+- name: category
+  type: select
+  default: Performance
+  config:
+    required: true
+    options:
+    - Performance
+    - Writing
+    - Audio
+    - Video/Foto
+    - Workshops
+    source:
+      type: simple
+      section: jekyll-posts
+      file: _posts/2019-05-23-adding-http-response-headers-to-a-netlify-static-website.md
+      path: 
+  label: category
 - type: text
   name: description
   label: description
@@ -20,5 +37,3 @@ fields:
 - type: list
   name: tags
   label: tags
-pages:
-- _posts/Performance/test-performance.md
