@@ -3,7 +3,7 @@ layout: page
 title: Contact
 menu:
   header:
-    weight: 6
+    weight: 7
 
 ---
 ...

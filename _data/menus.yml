@@ -3,20 +3,20 @@ header:
 - title: About
   url: "/about"
   identifier: about
-  weight: 7
+  weight: 6
 - url: "/workshops"
-  weight: 4
+  weight: 3
   title: Workshops
 - url: "/video-foto"
   weight: 2
   title: Video/Foto
 - url: "/audio"
-  weight: 1
+  weight: 5
   title: Audio
 - url: "/writing"
   title: Writing
   identifier: writing
-  weight: 5
+  weight: 4
 - url: "/performance"
-  weight: 3
+  weight: 1
   title: Performance
