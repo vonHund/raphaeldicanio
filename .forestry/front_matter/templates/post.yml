@@ -38,6 +38,7 @@ fields:
   name: tags
   label: tags
 pages:
+- _posts/Performance/schnitt-i-stelle-1.md
 - _posts/Performance/schnitt-i-stelle.md
 - _posts/Performance/treppepepepe.md
 - _posts/Performance/zwischen-2.md
