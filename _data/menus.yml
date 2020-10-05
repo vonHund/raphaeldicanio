@@ -1,5 +1,8 @@
 ---
 header:
+- weight: 6
+  title: Audio
+  url: "/audio"
 - weight: 8
   url: "/contact"
   title: Contact
