@@ -5,11 +5,10 @@ title: Treppepepepe
 description: ''
 summary: ''
 comments: false
-tags:
-- Performance
+tags: []
 
 ---
-\-Unsere Performance “Treppepepepe” versuchten wir anders anzugehen, als die Bisherigen! Deses Mal stand nicht die intentionale Performativität, sondern viel mehr der visuelle Anspruch im Vordergrund. Wir dachten ausgehend von den Bildern. Ist es nicht irrelevant, welche Hintergedanken uns beeiflusst haben? Ist es nicht unweigerlich determiniert und gut, dass der Zuschauer beginnt seine eigenen Gedanken mit der Performance zu verknüpfen? Und ist es nicht gerade spannend mit der Darstellbarkeit der Sinnlosigkeit zu spielen?Dies waren Fragen die uns beschäftigten und uns zu dieser Performance inspirierten. Ablauf der Performance:
+Unsere Performance “Treppepepepe” versuchten wir anders anzugehen, als die Bisherigen! Deses Mal stand nicht die intentionale Performativität, sondern viel mehr der visuelle Anspruch im Vordergrund. Wir dachten ausgehend von den Bildern. Ist es nicht irrelevant, welche Hintergedanken uns beeiflusst haben? Ist es nicht unweigerlich determiniert und gut, dass der Zuschauer beginnt seine eigenen Gedanken mit der Performance zu verknüpfen? Und ist es nicht gerade spannend mit der Darstellbarkeit der Sinnlosigkeit zu spielen?Dies waren Fragen die uns beschäftigten und uns zu dieser Performance inspirierten. Ablauf der Performance:
 
 I) Wir steigen die Treppe herab, gehen auf die Zuschauer zu und beginnen mit zwei Putzlappen synchron den Boden zu wischen.
 
