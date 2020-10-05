@@ -25,4 +25,4 @@ VI) Im Untergeschoss angekommen nimmt jeder Reis in den Beutel seines Hemdes auf
 
 VII) Wir treffen uns an einer Tür und betreten einen langen dunklen Flur am Ende des Flures bleibt Dennis stehen und dreht sich zu mir um. Wir stehen uns gegenüber – schauen uns an. Unüberhörbar nun Mozarts Lacrimosa, das von den Wänden wiederhallt.
 
-VIII) Wir schalten abwechselnd das Licht an und wieder aus. An -Aus -An- Aus. Am Ende beschreiten wir gemeinsam die letzte Tür, schließen diese – die Musik endet mit einem lauten Schrei.
+VIII) Wir schalten abwechselnd das Licht an und wieder aus. An -Aus -An- Aus. Am Ende beschreiten wir gemeinsam die letzte Tür, schließen diese – die Musik endet mit einem lauten Schrei. 
