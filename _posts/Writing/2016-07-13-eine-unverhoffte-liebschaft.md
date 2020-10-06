@@ -1,0 +1,16 @@
+---
+category: Writing
+layout: post
+title: Eine unverhoffte Liebschaft
+description: ''
+summary: ''
+comments: false
+tags: []
+date: 2016-07-13 03:00:00 +0200
+
+---
+Wir schreiben den _13. Juli 2016_. Es ist ein Tag wie aus dem Bilderbuch. Die Sonne strahlt, der Himmel lacht. Heute ist der große Tag gekommen, der Tag, an dem ich mich _ihm_ endlich stelle. Seit Grundschultagen versuchten wir es immer wieder miteinander, doch so wirklich funktionieren wollte es nie. Es ist eine Hassliebe. Doch bevor ich ihn endgültig abschreibe, will ich ihm noch eine letzte, diese, Chance geben. Es ist ja nicht so, als wäre ich nicht schon oft genug auf ihn zugegangen. All meine Vorurteile schießen mir durch den Kopf. Oh, er ist ja so dreckig und grob und entscheiden kann er sich auch nicht. Mal mag er es nass und kalt, dann wieder trocken und heiß. Wer soll das schon verstehen? Man kann wirklich nicht behaupten, ich hätte nicht mit allen Mitteln versucht, ihn zu besänftigen. Ich erinnere mich an unser erstes Treffen, ich gab mir wirklich Mühe, aber wie sehr ich mich auch verbog und verzerrte, am Ende hatte er doch seine eigenen Vorstellungen. Dieser Stur_kopf_. Nun, lassen wir die alten Zeiten hinter uns und wagen einen Neuanfang.
+
+Entschlossen stand ich also vor den hohen Mauern des Werkhauses 5. Dass er sich gerade diesen Ort für unser Treffen ausgesucht hatte, war mal wieder typisch. Ich zögerte einen Moment und blickte an mir herunter. Weißer Kittel, Kelle, Schlinge. Ich war für alle Fälle gewappnet, dieses Mal wollte ich nicht unvorbereitet auf ihn treffen. Ich stieß die Tür auf und schaute mich nervös um. _Schön ist es hier_, dachte ich noch. Dann stand er plötzlich vor mir. Er sah gut aus. Goldbraun und etwas glitschig. Wir blickten uns einen Moment lang an. Eine ganze Weile hatten wir schon nichts mehr von einander gehört. War er immer noch der Selbe? Hatte er sich verändert? Meine Hand fuhr langsam über seinen aalglatten Körper. Er fühlte sich gut an. Ein bestimmtes Gefühl durchrann meinen Körper. Ein Gefühl, als sei genau diese Hand, in diesem Moment, nur dafür bestimmt seinen Körper zu liebkosen. Ähnlich dem Schlüssel-Schloss-Prinzip. Seine Gewohnheiten hatte er allerdings nicht abgelegt. Ich musste schmunzeln. Ich nahm die Schlinge und schnitt ihm, einem junge Gouda gleich, langsam und gefühlvoll Scheibe um Scheibe von seiner Oberfläche. Meine Finger gruben sich tief in ihn und hinterließen ihre Spuren. _Wow_, was für ein Gefühl. Wie konnte ich nur all die Jahre abstinent gelebt haben? Er fügte sich all meinen Bewegungen und Anstrengungen. Es war ein großartiges Gefühl ihn mit meinen bloßen Händen neu zu erschaffen, ja neu zu erfinden. Meditativ versank ich komplett in ihm, alles andere war vergessen, der Schnupfen, die Sorgen, der Stress. Nach mehreren Stunden inniger Liebe, betrachtete ich das Ergebnis meines Schaffens und ich sah, dass es gut war.
+
+Obwohl _Ton_ und ich anfangs ein sehr distanziertes Verhältnis hatten, näherten wir uns in diesem Projekt wundervoll einander an. Wir haben uns sogar dazu entschlossen, nun öfter miteinander zu arbeiten.
