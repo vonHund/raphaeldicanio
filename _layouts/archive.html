@@ -6,7 +6,7 @@ layout: default
 <!--<h1>{{page.title | capitalize}}</h1>-->
     <ul>
       {% for post in page.posts %}
-      <li><a class="post" href="{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
+      <li><a class="post" href="{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d-%m-%Y" }}</time></li>
       {% endfor %}
     </ul>
 	
