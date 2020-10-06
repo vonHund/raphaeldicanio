@@ -1,7 +1,7 @@
 ---
 category: Writing
 layout: post
-title: Eine unverhoffte Liebschaft
+title: unverhoffte Liebschaft
 description: ''
 summary: ''
 comments: false
