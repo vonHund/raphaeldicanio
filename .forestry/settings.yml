@@ -11,7 +11,7 @@ sections:
   match: "**/*"
 - type: jekyll-posts
   label: All Posts
-  create: documents
+  create: all
   templates:
   - post
 upload_dir: uploads
