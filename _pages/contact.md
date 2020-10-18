@@ -6,5 +6,3 @@ title: Contact
 raphael.dicanio\[at\]gmail\[dot\]com
 
 [https://www.instagram.com/vonhund/]()
-
-![](/uploads/images.png)
