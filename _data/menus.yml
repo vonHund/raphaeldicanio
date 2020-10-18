@@ -1,11 +1,11 @@
 ---
 header:
-- weight: 6
-  title: Audio
-  url: "/audio"
 - weight: 8
   url: "/contact"
   title: Contact
+- weight: 5
+  title: Audio
+  url: "/audio"
 - url: "//performancegarten.de"
   weight: 4
   title: Kuration
@@ -22,7 +22,7 @@ header:
 - url: "/writing"
   title: Writing
   identifier: writing
-  weight: 5
+  weight: 6
 - url: "/performance"
   weight: 1
   title: Performance
