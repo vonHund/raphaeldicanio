@@ -13,6 +13,5 @@ tags: []
 1\. Glückwunsch. Du bist auserwählt.  
 2\. Notiere deine größte Sünde.  
 3\. Reiche den Zettel durch das Fenster in die Box.
-
 4\. Strecke eine Hand durch das Fenster.  
 5\. Keine Panik! Es passiert nichts Schlimmes.
