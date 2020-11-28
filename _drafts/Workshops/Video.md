@@ -1,7 +1,7 @@
 ---
 category: Workshops
-layout: 'Video '
-title: ''
+layout: post
+title: Video WS
 description: ''
 summary: ''
 comments: false
