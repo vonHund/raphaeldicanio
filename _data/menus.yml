@@ -1,9 +1,16 @@
 ---
 header:
-- weight: 8
+- url: "/writing"
+  title: Writing
+  identifier: writing
+  weight: 7
+- url: "/audiowalk"
+  weight: 5
+  title: Audiowalk
+- weight: 9
   url: "/contact"
   title: Contact
-- weight: 5
+- weight: 6
   title: Audio
   url: "/audio"
 - url: "//performancegarten.de"
@@ -12,17 +19,13 @@ header:
 - title: About
   url: "/about"
   identifier: about
-  weight: 7
+  weight: 8
 - url: "/workshops"
   weight: 3
   title: Workshops
 - url: "/video-foto"
   weight: 2
   title: Video/Foto
-- url: "/writing"
-  title: Writing
-  identifier: writing
-  weight: 6
 - url: "/performance"
   weight: 1
   title: Performance
