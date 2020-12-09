@@ -19,6 +19,7 @@ fields:
     - Audio
     - Video/Foto
     - Workshops
+    - Audiowalk
     source:
       type: simple
       section: jekyll-posts
