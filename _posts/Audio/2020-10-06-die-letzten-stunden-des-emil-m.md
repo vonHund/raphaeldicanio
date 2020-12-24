@@ -1,5 +1,5 @@
 ---
-category: Audio
+category: Audiowalk
 layout: post
 title: Die letzten Stunden des Emil M.
 description: ''
