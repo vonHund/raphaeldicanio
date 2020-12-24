@@ -3,4 +3,4 @@ layout: page
 title: About
 
 ---
-Raphael Di Canio (*1990 in Köln, DE) arbeitet als Kunst- und Deutschlehrer am Genoveva-Gymnasium in Köln und an verschiedenen Projekten des Goethe Instituts Südasien. Zudem kursiert er ehrenamtlich das künstlerische Festival Performance Garten und ist Teil des Performance-Duos einfachzwei. In seinen Arbeiten beschäftigt er sich überwiegend mit Performance, Sound, Film und Text.
+Raphael Di Canio (*1990 in Köln, DE) arbeitet als Kunst- und Deutschlehrer an der Kaiserin-Theophanu Schule in Köln. Mit einem Lehrauftrag für Performance Art am Institut für Kunst und Kunsttheorie der Uni Köln versucht er Praxis, Theorie und Didaktik zu verweben. Er arbeitet in verschiedenen Projekten für die Makkaroni Akademie und das Rautenstrauch-Joest-Museum. Als Mitglied der Performancekollektive einfachzwei und PERplex beschäftigt sich seine künstlerische Praxis überwiegend mit Performance, Sound, Film und Text.
