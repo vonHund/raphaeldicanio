@@ -1,15 +1,12 @@
 ---
 header:
+- url: "/audiowalk"
+  weight: 5
+  title: Audiowalk
 - url: "/writing"
   title: Writing
   identifier: writing
   weight: 7
-- url: "/audiowalk"
-  weight: 5
-  title: Audiowalk
-- weight: 9
-  url: "/contact"
-  title: Contact
 - weight: 6
   title: Audio
   url: "/audio"
