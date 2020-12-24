@@ -6,7 +6,9 @@ description: ''
 summary: ''
 comments: false
 tags: []
-date: 2018-11-22 00:00:00 +0100
+date: 2018-11-22T00:00:00.000+01:00
 
 ---
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/385370381&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/raphael-di-canio" title="Raphael Di Canio" target="_blank" style="color: #cccccc; text-decoration: none;">Raphael Di Canio</a> · <a href="https://soundcloud.com/raphael-di-canio/shakuntala-1" title="Shakuntala" target="_blank" style="color: #cccccc; text-decoration: none;">Shakuntala</a></div>
+
+Willkommen zu meinem Audioblog aus Trivandrum, der Hauptstadt des Staates Kerala im Süden Indiens. Das Goethe Institut ermöglicht mir hier ein viermonatiges Praktikum an einer Schule. In den kommenden Monaten werde ich hin und wieder in zehnminütigen Sequenzen aus meinem Alltag berichten. Um dich an meinen Erfahrungen und Erlebnissen teilhaben zu lassen, habe ich mir vor dem Abflug ein spezielles Mikrofon gekauft. Für ein unmittelbares Hörerlebnis solltest du dir also unbedingt Kopfhörer anziehen. Nun wünsche ich dir viel Spaß und freue mich, dass du mir virtuell auf diese Reise folgen wirst.
