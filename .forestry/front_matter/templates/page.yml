@@ -9,4 +9,5 @@ fields:
   name: title
   label: title
 pages:
+- _pages/impressum.md
 - _pages/index.md
