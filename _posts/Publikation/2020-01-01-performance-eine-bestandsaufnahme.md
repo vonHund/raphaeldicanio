@@ -1,6 +1,6 @@
 ---
 category: Publikation
-layout: ''
+layout: post
 title: 'Performance: Eine Bestandsaufnahme'
 description: ''
 summary: ''
