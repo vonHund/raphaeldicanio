@@ -1,12 +1,15 @@
 ---
 header:
+- url: "/publikation"
+  weight: 7
+  title: Publikation
 - url: "/audiowalk"
   weight: 5
   title: Audiowalk
 - url: "/writing"
   title: Writing
   identifier: writing
-  weight: 7
+  weight: 8
 - weight: 6
   title: Audio
   url: "/audio"
@@ -16,7 +19,7 @@ header:
 - title: About
   url: "/about"
   identifier: about
-  weight: 8
+  weight: 9
 - url: "/workshops"
   weight: 3
   title: Workshops
