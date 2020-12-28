@@ -1,7 +1,7 @@
 ---
 header:
 - url: "/publikation"
-  weight: 7
+  weight: 6
   title: Publikation
 - url: "/audiowalk"
   weight: 5
@@ -10,7 +10,7 @@ header:
   title: Writing
   identifier: writing
   weight: 8
-- weight: 6
+- weight: 7
   title: Audio
   url: "/audio"
 - url: "//performancegarten.de"
