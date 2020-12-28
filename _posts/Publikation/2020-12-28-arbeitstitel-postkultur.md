@@ -6,7 +6,7 @@ description: ''
 summary: ''
 comments: false
 tags: []
-date: 2014-12-01 00:00:00 +0100
+date: 2014-12-02 00:00:00 +0100
 
 ---
 [Di Canio, Raphael: Arbeitstitel: Postkultur. In: What's next? Art Education. Ein Reader. Kolb, Gila; Meyer, Torsten (Hrsg.). Kopaed, 2014, S.66.](http://whtsnxt.net/194)
