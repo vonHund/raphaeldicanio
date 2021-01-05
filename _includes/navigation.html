@@ -1,3 +1,5 @@
+{% assign current = page.url | downcase | split: '/' %}
+
 <header role="banner">
     <!--<h1 class="logo">{{ site.title }}</h1>-->
     <nav role="navigation">
@@ -5,7 +7,8 @@
 
         {% for item in site.menus.header %}
             <li class="menu-item-{{ loop.index }}">
-                <a href="{{ item.url }}" {% if page.url contains item.url %} class="active"{% endif %} title="{{ item.title }}">{{ item.title }}</a>
+                {% assign target = item.url | downcase | split: '/' %}
+                <a href="{{ item.url }}" {% if current[1] == target[1] %} class="active"{% endif %} title="{{ item.title }}">{{ item.title }}</a>
             </li>
         {% endfor %}
         </ul>
