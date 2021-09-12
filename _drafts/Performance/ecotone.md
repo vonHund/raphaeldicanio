@@ -1,6 +1,6 @@
 ---
 category: Performance
-layout: ''
+layout: post
 title: ecotone
 description: ''
 summary: ''
