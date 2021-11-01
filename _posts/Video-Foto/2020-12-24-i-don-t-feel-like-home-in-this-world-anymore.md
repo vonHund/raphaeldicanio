@@ -6,7 +6,7 @@ description: ''
 summary: ''
 comments: false
 tags: []
-date: 2020-12-24T00:00:00.000+01:00
+date: 2020-05-21 00:00:00 +0200
 
 ---
 Die Zweikanalinstallation „I don´t feel like home in this world“ zeigt eine Momentaufnahme zweier Menschen, die sich durch ein Haus bewegen, das kurz vor dem Abriss steht. Ausgestattet mit einem Sisalseil und Alufolie setzen sich die Performenden mit ihrer Umgebung auseinander und finden sich in einem Wechselspiel aus Neugierde, Widerstand, Anpassung und Schutz wieder. Geprägt durch ihre subjektive Wahrnehmung und die eigene Interpretation ihrer Umwelt stellt sich die Frage: Was ist Wirklichkeit und wie entsteht diese?
