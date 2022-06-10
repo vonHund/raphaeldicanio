@@ -6,7 +6,7 @@ description: ''
 summary: ''
 comments: false
 tags: []
-date: 2020-12-27T00:00:00.000+01:00
+date: 2022-05-17 00:00:00 +0200
 
 ---
 Soundwelten im Kunstunterricht. Potential von Produktion und Rezeption.
