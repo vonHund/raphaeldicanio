@@ -13,7 +13,7 @@ Potential von Produktion und Rezeption.
 
 Beitrag über den Einsatz von Sound im Kunstunterricht. 
 
-<img src="uploads/bdk.jpg" alt="bdk" height="200px" width="150px" style="float:left;"> 
+<img src="uploads/bdk.jpg" alt="bdk" height="200px" width="150px" style="float: left;"> 
 
 [https://bdk-online.info/de/2022/05/17/bdk-mitteilungen-2-2022/](https://bdk-online.info/de/2022/05/17/bdk-mitteilungen-2-2022/ "https://bdk-online.info/de/2022/05/17/bdk-mitteilungen-2-2022/")
 
