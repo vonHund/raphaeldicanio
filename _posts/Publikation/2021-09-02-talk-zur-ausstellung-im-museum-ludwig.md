@@ -9,7 +9,7 @@ tags: []
 date: 2021-09-02 00:00:00 +0200
 
 ---
-Vor Ort: Fotogeschichten zu Migration
+[Ausstellung: Vor Ort: Fotogeschichten zu Migration](https://www.museum-ludwig.de/de/ausstellungen/vor-ort-fotogeschichten-zur-migration.html "https://www.museum-ludwig.de/de/ausstellungen/vor-ort-fotogeschichten-zur-migration.html")
 
 Talk mit Murad Bayraktar, Raphael Di Canio, Fatma Tuna und Aliki Kappenstein-Deunert am Langen Donnerstag, 2.9.2021 im Rahmen der Ausstellung „Vor Ort: Fotogeschichten zur Migration“ 19.6. bis 3.10.2021 im Museum Ludwig, Köln.
 
