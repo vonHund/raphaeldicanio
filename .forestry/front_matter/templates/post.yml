@@ -21,6 +21,7 @@ fields:
     - Workshops
     - Audiowalk
     - Publikation
+    - Schule
     source:
       type: simple
       section: jekyll-posts
