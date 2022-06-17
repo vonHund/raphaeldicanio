@@ -1,12 +1,12 @@
 ---
 category: Schule
 layout: post
-title: Schule-Teyt
+title: Schule-Test
 description: ''
 summary: ''
 comments: false
 tags: []
-date: 
+date: 2022-06-17 00:00:00 +0200
 
 ---
 Lorem Ipsum Dolor Sit Amet
