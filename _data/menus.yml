@@ -1,14 +1,17 @@
 ---
 header:
+- url: "/audiowalk"
+  weight: 6
+  title: Audiowalk
+- url: "/workshops"
+  weight: 4
+  title: Workshops
 - url: "/schule"
   weight: 9
   title: Schule
 - url: "/publikation"
-  weight: 6
+  weight: 2
   title: Publikation
-- url: "/audiowalk"
-  weight: 5
-  title: Audiowalk
 - url: "/writing"
   title: Writing
   identifier: writing
@@ -17,17 +20,14 @@ header:
   title: Audio
   url: "/audio"
 - url: "//performancegarten.de"
-  weight: 4
+  weight: 5
   title: Kuration
 - title: About
   url: "/about"
   identifier: about
   weight: 10
-- url: "/workshops"
-  weight: 3
-  title: Workshops
 - url: "/video-foto"
-  weight: 2
+  weight: 3
   title: Video/Foto
 - url: "/performance"
   weight: 1
